@@ -12,6 +12,8 @@
 
 ![](./src/assets/images/sample-2.png)
 
+<video src="./src/assets/videos/demo.mp4" width="100%" controls autoplay muted loop></video>
+
 ### Columns
 
 ```json
