@@ -10,7 +10,7 @@
 
 ![](./src/assets/images/sample-1.png)
 
-![](./src//assets/images/sample-2.png)
+![](./src/assets/images/sample-2.png)
 
 ### Columns
 

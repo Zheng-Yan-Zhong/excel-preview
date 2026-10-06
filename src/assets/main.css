@@ -1,0 +1,31 @@
+@import 'tailwindcss';
+
+@layer base {
+  body {
+    min-width: 320px;
+    min-height: 100vh;
+    background: #f8faf9;
+    color: #172b24;
+    font-family:
+      Inter,
+      -apple-system,
+      BlinkMacSystemFont,
+      'Segoe UI',
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      'Fira Sans',
+      'Droid Sans',
+      'Helvetica Neue',
+      sans-serif;
+    font-size: 15px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  #app {
+    min-height: 100vh;
+  }
+}
